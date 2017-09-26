@@ -1,0 +1,12 @@
+                                                          PAINT
+l134122
+cs-A
+
+
+
+The menu is on the left side of the screen.To select a shape click on the shape required from the menu.
+If u have chosen the rectangle u have to click on the left top side of rectangle and bottom right point of rectangle.
+Then there will one extra click.
+if u want to draw the same shape click anywhere on the screen but if you to change the shapeclick it from the menu.
+To fill a shape u have to click on paint bucket twice or thrice .and then the color and the same is with the eraser.
+You can also save the file.
